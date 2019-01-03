@@ -1,0 +1,11 @@
+/*
+Theme Name: Brand Child
+Theme URI: http://localhost/sushi/
+Description: This is a child theme of Brand
+Author: Peter Cabulao
+Author URI: https://pcabulao.gq
+Template: brand
+Version: 0.1
+*/
+
+@import url("../brand/style.css");
